@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1848C46E24AD1F5800164869 /* Calis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calis.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1848C46E24AD1F5800164869 /* Çalış!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Çalış!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1848C47124AD1F5800164869 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1848C47324AD1F5800164869 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		1848C47524AD1F5800164869 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		1848C46F24AD1F5800164869 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1848C46E24AD1F5800164869 /* Calis.app */,
+				1848C46E24AD1F5800164869 /* Çalış!.app */,
 				1848C48424AD1F5E00164869 /* CalisTests.xctest */,
 				1848C48F24AD1F5F00164869 /* CalisUITests.xctest */,
 			);
@@ -145,7 +145,7 @@
 			);
 			name = Calis;
 			productName = Calis;
-			productReference = 1848C46E24AD1F5800164869 /* Calis.app */;
+			productReference = 1848C46E24AD1F5800164869 /* Çalış!.app */;
 			productType = "com.apple.product-type.application";
 		};
 		1848C48324AD1F5E00164869 /* CalisTests */ = {
@@ -442,7 +442,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.meliksah.Calis;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Çalış!";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -460,7 +460,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.meliksah.Calis;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Çalış!";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
